@@ -1,5 +1,5 @@
 def product(a, b):
-    print("product of ", a, " and ", b, " is ", a*b )
+    print("product of ", a, " and ", b, " is ", a*b)
 
 
 num1 = input("Enter a number : ")
